@@ -1,0 +1,17 @@
+export declare class PanoramaConnectionsDto {
+    forward: string | null;
+    left: string | null;
+    right: string | null;
+    backward: string | null;
+}
+export declare class PanoramaResponseDto {
+    id: string;
+    imageUrl: string;
+    videoUrl?: string;
+    isVideo?: boolean;
+    location?: string;
+    connections: PanoramaConnectionsDto;
+    yaw: number;
+    pitch: number;
+}
+//# sourceMappingURL=panorama.dto.d.ts.map

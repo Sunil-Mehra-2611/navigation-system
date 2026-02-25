@@ -1,0 +1,1 @@
+{"version":3,"file":"panorama.entity.d.ts","sourceRoot":"","sources":["../../src/entities/panorama.entity.ts"],"names":[],"mappings":"AAEA,qBACa,QAAQ;IAEnB,EAAE,EAAE,MAAM,CAAC;IAGX,QAAQ,EAAE,MAAM,CAAC;IAGjB,SAAS,EAAE,MAAM,CAAC;IAGlB,MAAM,EAAE,MAAM,CAAC;IAGf,OAAO,EAAE,MAAM,CAAC;IAGhB,UAAU,EAAE,MAAM,CAAC;IAGnB,GAAG,EAAE,MAAM,CAAC;IAGZ,KAAK,EAAE,MAAM,CAAC;CACf"}

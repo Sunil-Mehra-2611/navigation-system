@@ -1,0 +1,1 @@
+{"version":3,"file":"panorama.service.d.ts","sourceRoot":"","sources":["../../src/services/panorama.service.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,mBAAmB,EAAE,MAAM,qBAAqB,CAAC;AAE1D,qBACa,eAAe;IAC1B,OAAO,CAAC,SAAS,CAA0B;;IAOrC,QAAQ,CAAC,EAAE,EAAE,MAAM,GAAG,OAAO,CAAC,mBAAmB,CAAC;IAwBlD,OAAO,IAAI,OAAO,CAAC,GAAG,EAAE,CAAC;IAI/B,QAAQ,IAAI,IAAI;CAkEjB"}
